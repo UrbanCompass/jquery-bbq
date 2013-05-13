@@ -1,0 +1,10 @@
+{
+  "name": "jquery-bbq",
+  "version": "1.2.1-bower",
+  "main": [
+    "jquery.ba-bbq.js"
+  ],
+  "dependencies": {
+    "jquery": "~1.9"
+  }
+}
